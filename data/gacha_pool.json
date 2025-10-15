@@ -4,5 +4,11 @@
     "rarity": "rare",
     "type": "file",
     "content": "https://raw.githubusercontent.com/bimzhost/Gacha-Items/main/gacha_files/SCRIPT_OBF_V4.zip"
+  },
+  {
+    "name": "BOT OBF NP ENC",
+    "rarity": "rare",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/bimzhost/Gacha-Items/main/gacha_files/SCRIPT_OBF_V4.zip"
   }
 ]

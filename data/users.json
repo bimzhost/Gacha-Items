@@ -1,18 +1,24 @@
 {
-  "last_updated": "2025-10-15T13:45:31.258Z",
+  "last_updated": "2025-10-15T14:01:08.488Z",
   "totalGroups": 0,
   "users": {
     "7780828553": {
       "id": 7780828553,
-      "username": "OxBimz",
+      "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 0,
+      "gacha_count": 1,
       "gacha_limit": 15,
       "bonus_gacha": 0,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
-      "rare_drops_count": 0,
+      "gacha_history": [
+        {
+          "name": "BOT OBF NO ENC",
+          "rarity": "rare",
+          "date": "2025-10-15T14:01:08.488Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
+      "rare_drops_count": 1,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-15",
       "last_daily_claim": null,

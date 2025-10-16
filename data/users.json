@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15T14:01:39.365Z",
+  "last_updated": "2025-10-16T09:30:12.401Z",
   "totalGroups": 0,
   "users": {
     "7780828553": {
@@ -26,6 +26,23 @@
       "rare_drops_count": 2,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-15",
+      "last_daily_claim": null,
+      "invited_by": null,
+      "referrals": 0
+    },
+    "7941896952": {
+      "id": 7941896952,
+      "username": "BimzInvasion",
+      "is_premium": false,
+      "premium_expires": null,
+      "gacha_count": 0,
+      "gacha_limit": 15,
+      "bonus_gacha": 0,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "pity_counter": 0,
+      "last_gacha_reset": "2025-10-16",
       "last_daily_claim": null,
       "invited_by": null,
       "referrals": 0
